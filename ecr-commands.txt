@@ -8,4 +8,4 @@ docker build -t youtube:latest .
 docker tag <IMAGE_NAME> <ECR_URL>
 
 // push to ECR
-docker push <ECR_URL>
+docker push <ECR_URL_of _your_repo>
